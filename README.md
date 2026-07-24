@@ -86,5 +86,3 @@ This project demonstrates the practical application of **LLM-powered agents for 
 * Add a web interface
 * Implement scheduled news briefings
 * Store historical summaries for trend analysis
-
-
