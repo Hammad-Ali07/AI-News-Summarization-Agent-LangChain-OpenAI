@@ -221,8 +221,4 @@ News content and API credentials should be handled responsibly.
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
-See the `LICENSE` file for more information.
