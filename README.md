@@ -87,6 +87,4 @@ This project demonstrates the practical application of **LLM-powered agents for 
 * Implement scheduled news briefings
 * Store historical summaries for trend analysis
 
-## License
 
-This project is open source and available under the repository's selected license.
